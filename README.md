@@ -1,8 +1,6 @@
 # PYTHON & GENAI
----
-## Here we only Talk about the Python and Gen AI
 
----
+## Here we only Talk about the Python and Gen AI
 
 ### create the python virtual environment
 
